@@ -1,3 +1,6 @@
+[Reflex tutorial](https://reflex-frp.org/tutorial)
+[7 GUIS](https://eugenkiss.github.io/7guis/tasks)
+
 # reflex-stone
 
 Like [Obelisk](https://github.com/obsidiansystems/obelisk), but for static sites.

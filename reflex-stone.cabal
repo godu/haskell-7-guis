@@ -16,6 +16,7 @@ executable reflex-stone
     , reflex
     , reflex-dom
     , text
+    , containers
 
   default-extensions:
     DataKinds
@@ -23,6 +24,7 @@ executable reflex-stone
     LambdaCase
     OverloadedStrings
     ScopedTypeVariables
+    RecursiveDo
 
   ghc-options:        -Wall -threaded
 
